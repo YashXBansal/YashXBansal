@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashxbansal&label=Profile%20views&color=0e75b6&style=flat" alt="yashxbansal" /> </p>
 
-- 🌱 I’m currently learning **C++, DSA, WEB3, MOCHA**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **yashbansal414@gmail.com**
 
