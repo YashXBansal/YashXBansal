@@ -52,3 +52,9 @@
 </div>
 
 ###
+
+<!-- Add the profile views counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashXBansal&color=blueviolet" alt="profile views" />
+</div>
+
