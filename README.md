@@ -51,10 +51,17 @@
   </a>
 </div>
 
+
+###
+
+<!-- Add the GitHub activity streaks -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashXBansal&theme=dracula" alt="GitHub activity streak" />
+</div>
+
 ###
 
 <!-- Add the profile views counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YashXBansal&color=blueviolet" alt="profile views" />
 </div>
-
